@@ -3,7 +3,7 @@
 
 ![UI](UI.png)
 
-![OCR Banner](https://via.placeholder.com/1000x300?text=OCR+with+EasyOCR+%26+Streamlit)  
+
 
 ## 🚀 Overview  
 This **Streamlit-based OCR (Optical Character Recognition) web app** leverages **EasyOCR** to extract text from images efficiently.  
