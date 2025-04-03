@@ -1,6 +1,8 @@
 
 # 📄 OCR Implementation with EasyOCR & Streamlit  
 
+![UI](ui_overview.png)
+
 ![OCR Banner](https://via.placeholder.com/1000x300?text=OCR+with+EasyOCR+%26+Streamlit)  
 
 ## 🚀 Overview  
@@ -54,3 +56,5 @@ Pillow (PIL) 🖼
 
 📜 License
 This project is open-source under the MIT License.
+📩 **Have queries? Let's connect:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yashwanth-sai-kasarabada-ba4265258/)  
+
