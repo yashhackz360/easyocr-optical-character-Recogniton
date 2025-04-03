@@ -1,0 +1,1 @@
+# easyocr-optical-character-Recogniton
