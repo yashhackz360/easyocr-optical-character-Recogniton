@@ -1,8 +1,4 @@
-Here's your complete README.md file in a single piece of code:
 
-markdown
-Copy
-Edit
 # 📄 OCR Implementation with EasyOCR & Streamlit  
 
 ![OCR Banner](https://via.placeholder.com/1000x300?text=OCR+with+EasyOCR+%26+Streamlit)  
@@ -23,7 +19,7 @@ Simply **upload an image**, and the app will process it in real time, displaying
 ## 🔧 Installation  
 
 1️⃣ **Clone the repository:**  
-```bash
+
 git clone https://github.com/YOUR_GITHUB_USERNAME/OCR-Streamlit-App.git
 cd OCR-Streamlit-App
 2️⃣ Install dependencies:
