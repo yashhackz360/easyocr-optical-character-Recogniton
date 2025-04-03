@@ -1,7 +1,7 @@
 
 # 📄 OCR Implementation with EasyOCR & Streamlit  
 
-![UI](ui_overview.png)
+![UI](UI_overview(2).png)
 
 ![OCR Banner](https://via.placeholder.com/1000x300?text=OCR+with+EasyOCR+%26+Streamlit)  
 
