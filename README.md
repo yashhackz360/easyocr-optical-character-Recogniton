@@ -24,24 +24,13 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/OCR-Streamlit-App.git
 cd OCR-Streamlit-App
 2️⃣ Install dependencies:
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
+
 3️⃣ Run the app:
 
-bash
-Copy
-Edit
 streamlit run ocr_imp.py
-📂 Project Structure
-bash
-Copy
-Edit
-📁 OCR-Streamlit-App
-│── 📄 ocr_imp.py       # Main application script
-│── 📄 requirements.txt # Dependencies
-│── 📄 README.md        # Documentation
+
+
 🛠 Technologies Used
 Python 🐍
 
